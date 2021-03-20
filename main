@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+    <head>
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<link rel="icon" type="image/png" size= "16x16" href="uzay-16x16.png" /> <!-- cela sert pour l'icone en haut (favicon)-->
+		<title>
+            Uzay
+        </title>
+        <meta charset="utf-8">
+    </head>
+	<body style="background-color:#3F3543;">
+		<h1> Bienvenue sur Uzay </h1>
+			<h2> Kirmizi-Le-Rouge Mavi-Le-Bleu Yesil-Le-Vert</h2> <br>
+			<p> Vous allez guider ces trois personnages dans une aventure. <br>
+			En découvrant une histoire à choix qui se terminera en deux chapitres. <br> </p>
+			<p> <img src="image/Kirmizi.jpg" alt="" height="400px" width="300px"/> <img src="image/mavi.jpg" alt="" height="400px" width="300px"/> <img src="image/Yesil.jpg" alt="" height="400px" width="300px"/> <br>
+			Ces trois personnages sont les protagonistes de l'histoire.<br>
+			Ces petits extraterrestres viennent de la planète Uzay, ils sont ici afin de découvrir de nouveaux mondes. </p>
+				<h3> Pour commencer l'aventure sur la planère Xaick c'est <a href=page0.html> ici </a> </h3> <br>
+				<br>
+			<h5> Créatrices <br>
+			Yoko: <a href=https://twitter.com/Yoko_zoo target="_blank"> Twitter </a> / <a href=https://www.instagram.com/yoko_zooo target="_blank"> Instagram </a><br>
+			Quelquun: <a href=https://twitter.com/quelquunperson target="_blank"> Twitter </a> </h5>
+	</body>
+</html>
